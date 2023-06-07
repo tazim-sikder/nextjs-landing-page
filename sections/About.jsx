@@ -33,8 +33,8 @@ const About = () => (
         <span className="font-extrabold text-white">Super</span> devices you can
         easily explore the planets world you want, turn your dreams into
         reality. Let's{" "}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        <span className="font-extrabold text-white">explore</span> the vastness
+        of the universe by scrolling down
       </motion.p>
 
       <motion.img
